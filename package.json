@@ -1,0 +1,24 @@
+{
+  "name": "ink-thunk",
+  "version": "0.1.1",
+  "description": "thunk to use ink from ts-node",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-ink-thunk/issues"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/nak2k/node-ink-thunk",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nak2k/node-ink-thunk.git"
+  },
+  "scripts": {},
+  "files": [
+    "README.md",
+    "index.js",
+    "index.d.ts"
+  ]
+}
